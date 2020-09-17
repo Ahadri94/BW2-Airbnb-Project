@@ -1,1 +1,1 @@
-# BW2-housing-rent-Project
+# BW2-Hotel-booking-demand-Project
